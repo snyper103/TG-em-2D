@@ -8,13 +8,12 @@ O OpenGL consiste em um conjunto de rotinas gráficas gratuitas. Pensando nisso 
 Basta compilar os arquivos contidos neste repositório e executá-los.
 
 ### Funcionalidades
-1) Permitir ao usuário escolher as seguintes figuras geométricas planas regulares a serem desenhadas: Triângulo, Quadrado, Hexágono.
-2) Permitir ao usuário digitar as coordenadas dos vértices de cada figura. Neste caso, os polígonos a serem desenhados poderão ser irregulares.
-3) Permitir ao usuário utilizar cliques de mouse para determinar os vértices e/ou o centro de cada figura, no caso de polígonos irregulares.
-4) Permitir ao usuário digitar o ponto central e o tamanho da aresta (borda) de cada polígono. Neste caso os polígonos desenhados serão regulares. 
-5) Desenhar a figura na tela conforme parâmetros de entrada fornecidos pelo usuário (requisitos 1 a 4). Suportar o desenho e visualização de no máximo 5 figuras simultaneamente.
-6) Permitir escolher qualquer uma das seguintes TGs, a serem realizadas sobre uma figura já desenhada: 
-
+1) Permite ao usuário escolher as seguintes figuras geométricas planas regulares a serem desenhadas: Triângulo, Quadrado, Hexágono.
+2) Permite ao usuário digitar as coordenadas dos vértices de cada figura. Neste caso, os polígonos a serem desenhados poderão ser irregulares.
+3) Permite ao usuário utilizar cliques de mouse para determinar os vértices e/ou o centro de cada figura, no caso de polígonos irregulares.
+4) Permite ao usuário digitar o ponto central e o tamanho da aresta (borda) de cada polígono. Neste caso os polígonos desenhados serão regulares. 
+5) Desenha a figura na tela conforme parâmetros de entrada fornecidos pelo usuário (requisitos 1 a 4). Suportar o desenho e visualização de no máximo 5 figuras simultaneamente.
+6) Permite escolher qualquer uma das seguintes TGs, a serem realizadas sobre uma figura já desenhada: 
     - Translação, Escala, Rotação, Reflexão, Cisalhamento
 7) Conforme a TG escolhida, solicita ao usuário os parâmetros correspondentes e necessários para realizar a transformação. O usuário pode escolher os parâmetros livremente por digitação. 
 As seguintes funcionalidades estão implementadas para cada TG:
